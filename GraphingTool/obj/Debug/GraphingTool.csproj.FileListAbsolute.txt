@@ -1,0 +1,10 @@
+E:\projects\Bar_charts\GraphingTool\GraphingTool\GraphingTool\bin\Debug\GraphingTool.exe.config
+E:\projects\Bar_charts\GraphingTool\GraphingTool\GraphingTool\bin\Debug\GraphingTool.exe
+E:\projects\Bar_charts\GraphingTool\GraphingTool\GraphingTool\bin\Debug\GraphingTool.pdb
+E:\projects\Bar_charts\GraphingTool\GraphingTool\GraphingTool\obj\Debug\GraphingTool.csprojAssemblyReference.cache
+E:\projects\Bar_charts\GraphingTool\GraphingTool\GraphingTool\obj\Debug\GraphingTool.Properties.Resources.resources
+E:\projects\Bar_charts\GraphingTool\GraphingTool\GraphingTool\obj\Debug\GraphingTool.csproj.GenerateResource.cache
+E:\projects\Bar_charts\GraphingTool\GraphingTool\GraphingTool\obj\Debug\GraphingTool.csproj.CoreCompileInputs.cache
+E:\projects\Bar_charts\GraphingTool\GraphingTool\GraphingTool\obj\Debug\GraphingTool.exe
+E:\projects\Bar_charts\GraphingTool\GraphingTool\GraphingTool\obj\Debug\GraphingTool.pdb
+E:\projects\Bar_charts\GraphingTool\GraphingTool\GraphingTool\obj\Debug\GraphingTool.Form1.resources

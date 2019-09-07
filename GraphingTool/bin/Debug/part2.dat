@@ -1,0 +1,19 @@
+</script>
+			<script>
+			var ctx = document.getElementById('myChart');
+			var myChart = new Chart(ctx, {
+				type: 'bar',
+				data: barChartData,
+				options: {
+					scales: {
+						yAxes: [{
+							ticks: {
+								beginAtZero: true
+							}
+						}]
+					}
+				}
+			});
+			</script>
+	</body>
+</html>

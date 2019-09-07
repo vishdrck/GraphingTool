@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!-- saved from url=(0063)https://www.chartjs.org/samples/latest/charts/bar/vertical.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Bar Chart</title>
+	
+	<script src="Chart.min.js"></script>
+	<script src="utils.js"></script>
+	<style>
+	canvas {
+		-moz-user-select: none;
+		-webkit-user-select: none;
+		-ms-user-select: none;
+	}
+	</style>
+	<style type="text/css" src="chartStyle.css">
+	</style>
+</head>
+
+<body>
+	<div id="container" style="width: 40%; height: 40%" >
+		<div class="chartjs-size-monitor">
+			<div class="chartjs-size-monitor-expand">
+				<div class="">
+
+				</div>
+			</div>
+			<div class="chartjs-size-monitor-shrink">
+				<div class="">
+
+				</div
+				></div>
+			</div>
+			<canvas id="myChart" width="400" height="400" align = "center"></canvas>
+
+			<script>
+			var barChartData = {
